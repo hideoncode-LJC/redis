@@ -1,0 +1,42 @@
+.
+├── command
+│   └── command.go
+├── config
+│   ├── config.go
+│   └── config.yaml
+├── contect
+│   ├── connect.go
+│   └── dump.rdb
+├── dataStructure
+│   ├── bitmap
+│   │   ├── bitmap.go
+│   │   └── bitmap_test.go
+│   ├── hyperloglog
+│   │   ├── __debug_bin2357134698
+│   │   ├── hyperloglog.go
+│   │   └── hyperloglog_test.go
+│   ├── list
+│   │   └── list.md
+│   ├── redisObject
+│   │   ├── main.go
+│   │   └── redisObject.md
+│   ├── redis-project
+│   ├── set
+│   │   ├── set.go
+│   │   ├── set.md
+│   │   └── set_test.go
+│   ├── sortedsetdemo
+│   │   └── main.go
+│   └── string
+│       ├── string
+│       ├── string.c
+│       ├── string.go
+│       ├── string.md
+│       └── string_test.go
+├── dump.rdb
+├── file-structure
+├── go.mod
+├── go.sum
+└── uds
+
+13 directories, 26 files
