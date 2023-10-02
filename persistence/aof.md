@@ -1,0 +1,5 @@
+# AOF
+
+>append only file
+
+
